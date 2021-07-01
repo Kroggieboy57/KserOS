@@ -1,0 +1,6 @@
+PROJECT TITLE:Kser.OS
+PURPOSE OF PROJECT:Building a code based Operating System
+VERSION or DATE:1.0
+HOW TO START THIS PROJECT:Right Click on Start and click void run()
+AUTHORS:Krishna Menon
+USER INSTRUCTIONS:DO NOT EDIT THE CODE AS IT CAN CAUSE ERRORS

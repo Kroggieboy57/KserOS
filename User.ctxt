@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=
+comment1.target=void\ run()
+comment2.params=epass\ userCode
+comment2.target=void\ DoNotRun(int,\ int)
+comment3.params=epass\ userCode
+comment3.target=void\ back(int,\ int)
+comment4.params=enteredpass\ yourPass
+comment4.target=boolean\ pass(int,\ int)
+numComments=5

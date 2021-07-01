@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=calculator
+comment1.params=pass\ uc
+comment1.target=void\ calculateold(int,\ int)
+comment2.params=pass\ uc
+comment2.target=void\ calculate(int,\ int)
+numComments=3
