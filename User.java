@@ -104,25 +104,25 @@ public class User
 
         Scanner a=new Scanner(System.in);
 
-        if(pass(epass,3535)&&userCode==1)
+        if(pass(epass,9876)&&userCode==1)
         {
             v=1;
             userName="Admin";
         }
-        else if(pass(epass,5889)&&userCode==2)
+        else if(pass(epass,1234)&&userCode==2)
         {
             v=1;
-            userName="Krishna";
+            userName="Krog";
         }
         else if(pass(epass,4321)&&userCode==3)
         { 
             v=1;
-            userName="Nisha";
+            userName="N";
         }
         else if(pass(epass,6886)&&userCode==10)
         { 
             v=1;
-            userName="Vedant";
+            userName="V";
         }
         else if(pass(epass,0000)&&userCode==0)
         { 
